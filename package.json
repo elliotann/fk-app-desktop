@@ -1,0 +1,25 @@
+{
+  "name": "fk-app-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliotann/fk-app-desktop.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliotann/fk-app-desktop/issues"
+  },
+  "homepage": "https://github.com/elliotann/fk-app-desktop#readme"
+}
